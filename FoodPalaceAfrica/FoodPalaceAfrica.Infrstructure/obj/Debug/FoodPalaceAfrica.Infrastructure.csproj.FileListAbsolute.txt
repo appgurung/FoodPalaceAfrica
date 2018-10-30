@@ -1,0 +1,15 @@
+C:\SwiftBox\Git\GithubRepo\FoodPalaceAfrica\FoodPalaceAfrica.Infrstructure\bin\Debug\FoodPalaceAfrica.Infrastructure.dll.config
+C:\SwiftBox\Git\GithubRepo\FoodPalaceAfrica\FoodPalaceAfrica.Infrstructure\bin\Debug\FoodPalaceAfrica.Infrastructure.dll
+C:\SwiftBox\Git\GithubRepo\FoodPalaceAfrica\FoodPalaceAfrica.Infrstructure\bin\Debug\FoodPalaceAfrica.Infrastructure.pdb
+C:\SwiftBox\Git\GithubRepo\FoodPalaceAfrica\FoodPalaceAfrica.Infrstructure\bin\Debug\EntityFramework.dll
+C:\SwiftBox\Git\GithubRepo\FoodPalaceAfrica\FoodPalaceAfrica.Infrstructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\SwiftBox\Git\GithubRepo\FoodPalaceAfrica\FoodPalaceAfrica.Infrstructure\bin\Debug\FoodPalaceAfrica.Core.dll
+C:\SwiftBox\Git\GithubRepo\FoodPalaceAfrica\FoodPalaceAfrica.Infrstructure\bin\Debug\FoodPalaceAfrica.Core.pdb
+C:\SwiftBox\Git\GithubRepo\FoodPalaceAfrica\FoodPalaceAfrica.Infrstructure\bin\Debug\FoodPalaceAfrica.Core.dll.config
+C:\SwiftBox\Git\GithubRepo\FoodPalaceAfrica\FoodPalaceAfrica.Infrstructure\bin\Debug\EntityFramework.xml
+C:\SwiftBox\Git\GithubRepo\FoodPalaceAfrica\FoodPalaceAfrica.Infrstructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\SwiftBox\Git\GithubRepo\FoodPalaceAfrica\FoodPalaceAfrica.Infrstructure\obj\Debug\FoodPalaceAfrica.Infrastructure.csprojAssemblyReference.cache
+C:\SwiftBox\Git\GithubRepo\FoodPalaceAfrica\FoodPalaceAfrica.Infrstructure\obj\Debug\FoodPalaceAfrica.Infrastructure.csproj.CoreCompileInputs.cache
+C:\SwiftBox\Git\GithubRepo\FoodPalaceAfrica\FoodPalaceAfrica.Infrstructure\obj\Debug\FoodPalaceAfrica.Infrastructure.csproj.CopyComplete
+C:\SwiftBox\Git\GithubRepo\FoodPalaceAfrica\FoodPalaceAfrica.Infrstructure\obj\Debug\FoodPalaceAfrica.Infrastructure.dll
+C:\SwiftBox\Git\GithubRepo\FoodPalaceAfrica\FoodPalaceAfrica.Infrstructure\obj\Debug\FoodPalaceAfrica.Infrastructure.pdb
